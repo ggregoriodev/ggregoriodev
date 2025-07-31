@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Gregorio
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Estou cursando o ensino médio no Colégio Pedro II , com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e sempre busco por novos conhecimentos na área
 
@@ -23,11 +23,6 @@ Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Esto
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
 
 <img 
     align="left" 
