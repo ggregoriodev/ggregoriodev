@@ -52,7 +52,7 @@ Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Esto
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggregoriodeb&show_icons=true)" 
   />
 
 <img 
