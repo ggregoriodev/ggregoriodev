@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Gregorio
+# 🧑🏾‍💻 Guilherme Gregorio
 
 **`Desenvolvedor Backend`**
 
