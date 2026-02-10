@@ -50,14 +50,7 @@ Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Poss
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<img 
-   align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C#/C#-original.svg" 
-/>
+
 
 <br/>
 <br/>
