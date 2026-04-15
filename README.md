@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Possuo  curso técnico em Desenvolvimento de Sistemas, do Colégo Pedro II. Sou apaixonado por tecnologia e sempre busco por novos conhecimentos na área
+Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Possuo  curso técnico em Desenvolvimento de Sistemas, do Colégo Pedro II e Atualmente estou cursando Ciencia da Computação. Sou apaixonado por tecnologia e sempre busco por novos conhecimentos na área
 
 
 
