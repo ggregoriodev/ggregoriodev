@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Possuo  curso técnico em Desenvolvimento de Sistemas, do Colégo Pedro II e Atualmente estou cursando Ciencia da Computação. Sou apaixonado por tecnologia e sempre busco por novos conhecimentos na área
+Me chamo Guilherme Gregorio, tenho 19 anos e sou natural do Rio De Janeiro. Possuo  curso técnico em Desenvolvimento de Sistemas, do Colégo Pedro II e Atualmente estou cursando Ciencia da Computação. Sou apaixonado por tecnologia e sempre busco por novos conhecimentos na área
 
 
 
@@ -64,7 +64,7 @@ Me chamo Guilherme Gregorio, tenho 18 anos e sou natural do Rio De Janeiro. Poss
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggregoriodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src= "[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ggregoriodev)](https://github.com/stats-organization/github-stats-extended))" 
   />
 
 </p>
