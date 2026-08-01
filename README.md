@@ -32,20 +32,10 @@ Tenho interesse no desenvolvimento **Backend**, com foco no ecossistema **Java**
 
 ---
 
+
 ## 📊 Estatísticas
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ggregoriodev&show_icons=true&theme=github_dark&hide_border=true"
-  />
-
-<img
- height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggregoriodev&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ggregoriodev)](https://github.com/ggregoriodev)
 
 ---
 
