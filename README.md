@@ -6,7 +6,7 @@ Me chamo **Guilherme Gregorio**, tenho **19 anos** e sou do **Rio de Janeiro**.
 
 Sou Técnico em **Desenvolvimento de Sistemas** pelo **Colégio Pedro II** e atualmente curso **Ciência da Computação**.
 
-Tenho interesse no desenvolvimento **Backend**, com foco no ecossistema **Java** e **Spring Boot**, buscando constantemente aprimorar meus conhecimentos em arquitetura de software, APIs REST, microsserviços e boas práticas de desenvolvimento.
+Tenho como objetivo desenvolvimento **Backend**, com foco no ecossistema **Java** e **Spring Boot**, buscando constantemente aprimorar meus conhecimentos em arquitetura de software, APIs REST, microsserviços e boas práticas de desenvolvimento.
 
 ---
 
